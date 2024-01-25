@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ishaq Rajab</h1>
+<h1 align="center">Hi 👋, I'm Maxon Wanjeru</h1>
 <h3 align="center">Passionate Software Developer |Data Scientist |Network Engineer |RPA Developer based in Kenya</h3>
 
 <p align="left"> 
