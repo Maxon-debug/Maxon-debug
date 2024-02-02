@@ -5,18 +5,7 @@
  
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/rajab mattryn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Maxon-debug" height="30" width="40" /></a>
-<a href="https://twitter.com/kiddo_rajy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Maxon-debug" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ishaq-rajab" target="blank"><img align="center" src="https://www.linkedin.com/in/maxon-wanjeru-102bb721b/" alt="Maxon-debug" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/rajabmattryn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Maxon-debug" height="30" width="40" /></a>
-<a href="https://instagram.com/rajabmatt-ryn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Maxon-debug" height="30" width="40" /></a>
-<a href="https://hashnode.com/@rajabmattryn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Maxon-debug" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kiddoraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Maxon-debug" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kiddoraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Maxon-debug" height="30" width="40" /></a>
-  
-</p>
+
   <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
 
 <h3 align="left">About me:</h3>
